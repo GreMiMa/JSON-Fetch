@@ -1,0 +1,26 @@
+{
+  "otsikko": "Palaveri",
+  "palaveri": {
+    "aihe": "Responsiivisen verkkosivun kehitys Bootstrapilla ja dynaamisen datan integrointi JSONilla",
+    "osallistujien_lukumaara": 5
+  },
+  "osallistujat": [
+    {"nimi": "Mikko Mallikas", "titteli": "projektipäällikkö"},
+    {"nimi": "Anna Virtanen", "titteli": "frontend-kehittäjä"},
+    {"nimi": "Esa Lehtonen", "titteli": "backend-kehittäjä"},
+    {"nimi": "Laura Niemi", "titteli": "UX/UI-suunnitelija"},
+    {"nimi": "Sami Korhonen", "titteli": "testausvastaava"}
+  ],
+  "paikka": {
+    "tila": "Yrityksen kokoustila",
+    "sijainti": "Helsinki"
+  },
+  "aika": {
+    "viikonpaiva": "Keskiviikkona",
+    "paivamaara": "29.",
+    "kuukausi": "marraskuuta",
+    "vuosi": "2024",
+    "klo": "14:00",
+    "kesto": 1.5
+  }
+}
