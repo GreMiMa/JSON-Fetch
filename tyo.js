@@ -27,7 +27,7 @@ function kerro(data) {
     }
 
     //listaelementti kiinni
-    teksti = teksti + "</ul>"
+    teksti = teksti + "</ul>";
 
 
     // tulostus sivulle
